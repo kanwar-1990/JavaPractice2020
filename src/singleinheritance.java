@@ -1,6 +1,6 @@
 class whatever
 {
-	static void hello()
+	 static void hello()
 	{
 		System.out.println("i am super class ");
 	}

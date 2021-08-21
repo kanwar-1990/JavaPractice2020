@@ -1,6 +1,5 @@
 package interviewquestion;
 
-import org.omg.CORBA.SystemException;
 
 public class reversestring {
 
